@@ -1,0 +1,26 @@
+.zero{
+	background-color: grey;
+	text-align: right;
+	color: #ffff;
+}
+div[class|="col-md"]{
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+
+}
+
+.row div:first-child{
+	border-left: none;
+}
+
+
+.hagan{
+	background-color: gainsboro;
+	text-align: center;
+}
+
+.geo{
+	background-color: orange;
+	color: #ffff;
+	text-align: center;
+}
