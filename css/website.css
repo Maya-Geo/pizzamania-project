@@ -1,0 +1,90 @@
+body{
+	background-color: #fff0f5;
+}
+
+.open{
+	border: 0px;
+	padding:40px;
+	color: white;
+    background-color: seagreen; 
+}
+ 
+.open h5{
+        align-items: end;
+}
+
+
+.affect{
+	 width: 100%;
+	 height: 30px;
+     padding: 0px;
+     margin-bottom: 0px;
+     background-color: #343434;
+     margin-top: 0px;;                       
+}
+
+.affect a{
+	  padding: 0px;
+	  margin: 5px;
+	  color: #fff;
+	  text-decoration-line: none;
+}
+  
+.box{
+	display: flex;
+	margin-right: 20px;
+}
+
+.aboutme{
+	background-color: #f0f8ff;
+}
+
+.image{
+	background-color: grey;
+	height: 144px;
+	width: 79%;
+	padding-left: 20px;
+}
+ 
+ .maya1{
+ 	background-color: grey;
+ 	width: 75%;
+ 	height: 17spx;
+ 	padding: 20px;
+    margin-bottom: 10px; 
+ }
+
+ .maya2{
+ 	background-color: grey;
+ 	width: 75%;
+ 	height: 17px;
+ 	padding: 20px;
+    margin-bottom: 10px;
+ }
+
+ .maya3{
+ 	background-color: grey;
+ 	width: 75%;
+ 	height: 17px;
+ 	padding: 20px;
+    margin-bottom: 10px;
+ }
+
+
+ .bien{
+ 	background-color: grey;
+	height: 140px;
+	width: 111%;
+	padding-right: 20px;
+ }
+
+ .footer{
+    background-color: #B0DFE5;
+    width: 97%;
+	height: 40px;
+	padding:20px;
+	text-align: center;
+	color: black;
+	margin-bottom: 10px;
+
+ }
