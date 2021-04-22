@@ -1,0 +1,35 @@
+.foods{
+	  background-color:orange;
+	  width: 50%
+    height:100vh;
+	  margin: 20px;
+	
+}
+
+
+     .countries{
+     	      background-color:orange;
+     	      height:50vh;
+     	      width: 100%;
+            
+     }
+     .numbers{
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+           }
+  .numbers >div{
+          background-color: orange; 
+          height: 50vh;
+          width: 33%;
+          margin: 20px;
+        
+  }
+
+       .plants{
+               background-color:orange;
+               width: 100%
+               height:100vh;
+               margin: 10px;
+  
+       }
