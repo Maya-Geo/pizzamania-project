@@ -1,0 +1,138 @@
+
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: -15px;
+    margin-left: -15px;
+   
+  }
+
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    text-align-last: justify;
+}
+
+.navbar-fixed-top >img{
+    top: 0;
+    border-width: 0 0 1px;
+    background-color: rgb(59 12 12);
+    opacity: 0.4;
+    width: 100%
+    height:100vh;
+
+
+}
+
+
+.container{
+    position: relative;
+}
+
+.container-flex{
+    height: 247px;
+      
+}
+
+p {
+    margin: 0 0 10px;
+    text-align: center;
+}
+    
+
+
+.jumbotron{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-size: cover;
+    border-spacing: 10px;
+    border-top: transparent;
+    background-color: rgb(59 12 12);
+    margin: 0;
+    color: #ffff;
+    height: 35%;
+    background-blend-mode: overlay;
+    
+
+
+}
+.home{
+    border: 2px solid red;
+    color: red;
+}
+
+
+.settings{
+   color: red;
+}
+
+.reg{
+ color: red;
+}
+
+.log{
+     color: red;
+}
+
+
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgb(59 12 12);
+}
+
+.footer{
+    background-color: rgb(59, 12, 12);
+    margin-top: 1rem;
+    color: #fff;
+    height: 5pc;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    text-align: center;
+}
+
+h4, .h4 {
+    font-size: 18px;
+    text-align: center;
+}
+
+h5, .h5 {
+    font-size: 14px;
+    text-align: left;
+}
+
+h6, .h6 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.fa-facebook{
+    color: blue;
+    margin-right: 40px;
+}
+
+.fa-instagram{
+    color: blue;
+    margin-right: 40px;
+}
+
+.fa-twitter{
+    color: blue;
+    margin-right: 40px;
+}
+
+.fa-linkedin{
+    color: blue;
+    margin-right: 50px;
+}

@@ -1,0 +1,96 @@
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: -15px;
+    margin-left: -15px;
+    background-color: rgb(59 12 12 / 91%);
+  }
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(59 12 12);
+}
+
+.login{
+	border: 2px solid red;
+}
+
+
+.form-group{
+	margin-bottom: 15px;
+	width: 50%;
+}
+
+.row{
+	color: #fff;
+	text-align: center;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-right: 600px;
+    font-weight: 700;
+}
+
+.btn-default {
+    color: #333;
+    background-color:blue;
+    border-color: #ccc;
+    margin-right: 600px;
+}
+
+
+
+.footer{
+    background-color: rgb(59, 12, 12);
+    margin-top: 20rem;
+    color: #fff;
+    height: 4pc;
+}
+
+
+.fa-facebook{
+    color: blue;
+    margin-right: 40px;
+}
+
+.fa-instagram{
+    color: blue;
+    margin-right: 40px;
+}
+
+.fa-twitter{
+    color: blue;
+    margin-right: 40px;
+}
+
+.fa-linkedin{
+    color: blue;
+    margin-right: 50px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    width: 50%;
+    margin-left: 250px;
+}
+h4, .h4 {
+    font-size: 18px;
+    text-align: center;
+}
+.btn-default {
+    color: #333;
+    background-color: blue;
+    border-color: #ccc;
+    margin-right: 600px;
+    margin-left: 253px;
+}
