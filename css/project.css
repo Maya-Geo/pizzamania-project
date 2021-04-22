@@ -1,0 +1,23 @@
+.img-responsive{
+	 height: 40vh;
+}
+
+
+.carousel-content{
+	height: 538px;
+}
+
+.footer{
+	background-color: indigo;
+	margin-top: 20px;
+	width: 100%;
+	padding: 20px;
+	color: #fff;
+}
+.dede{
+	color: brown;
+}
+
+.hag{
+	color: green;
+}
